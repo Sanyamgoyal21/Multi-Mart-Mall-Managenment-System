@@ -1,0 +1,10 @@
+1	Himalaya	HimalayaHerbalsNeemFaceWash	100	120	neemandturmeric
+2	VLCC	VLCCAyurvedaSkinBrighteningHaldiChandanFaceWash	110	175	turmericandsandalwoodextracts
+3	Lotus	SkinWhiteningBrighteningGelCream	90	299	SPF25
+4	Biotique	LipBalm	200	149	extractsoffruitslikealmonddatesanjeer
+5	Forest	ForestEssentialsFacialTonicMist	185	750	Hydratingrefreshing
+6	Kama	MiraculousBeautyFluid	400	2195	reducesfinelines
+7	Patanjali	AloeVeraGel	360	80	naturalhealingproperties
+8	Biotique	TanRemovalScrub	340	199	brighterandsmootherskin
+9	Nykaa	TeaTreeEssentialOil	370	350	antibacterialandantiacneproperties
+10	Oriental	TeaTreeFaceWash	80	399	teatreeoilandneemextracts
