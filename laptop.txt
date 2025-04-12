@@ -1,0 +1,10 @@
+1	HP	HPPavilionx360	100	50000	IntelCorei5processor8GBRAM
+2	Lenovo	LenovoIdeapadS145	150	35000	15inchdisplayAMDRyzen3
+3	Dell	DellInspiron3593	160	45000	IntelCorei3
+4	Acer	AcerAspire5	120	40000	AMDRyzen5
+5	ASUS	ASUSVivoBook14	140	38000	14inchFHDdisplayIntelCorei3
+6	Apple	MacBookAir	180	80000	LightweightRetinadisplayAppleM1chip
+7	Infinix	InfinixINBookX1	100	30000	IntelCorei3processor
+8	Samsung	SamsungGalaxyBookFlex	150	75000	QLEDtouchscreenIntelCorei5
+9	Micromax	MicromaxNeo	115	25000	IntelPentiumGoldprocessor
+10	Huawei	HuaweiMateBookD15	160	55000	AMDRyzen5

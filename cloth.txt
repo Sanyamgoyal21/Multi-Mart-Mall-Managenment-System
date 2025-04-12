@@ -1,0 +1,10 @@
+1	FabIndia	CottonKurta	500	1499	Handwovencottonfabric
+2	Biba	AnarkaliSuitSet	390	3999	Embroidered
+3	WforWoman	PrintedPalazzoPants	295	1299	Geometricprint
+4	GlobalDesi	BohemianMaxiDress	350	2899	flowysilhouette
+5	AllenSolly	SlimFitFormalShirt	500	1799	Crispcottonfabric
+6	Manyavar	SherwaniSuit	450	12999	premiumsilkfabri
+7	AND	FloralPrintWrapDress	600	2499	Wraparoundstyle
+8	Mufti	DenimJeans	450	1899	distresseddetailing
+9	RituKumar	EmbellishedSaree	300	9999	perfectforweddings
+10	Raymond	LinenBlazer	350	5499	tailoredfit

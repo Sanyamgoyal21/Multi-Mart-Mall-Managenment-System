@@ -1,0 +1,10 @@
+1	Syska	SyskaLEDBulb	1180	150	instantbrightness
+2	Philips	PhilipsLEDBulb	1300	180	lowpowerconsumption
+3	Havells	HavellsLEDBulb	1499	160	flickerfreeoperation
+4	Wipro	WiproLEDBulb	1700	140	highcolorrenderingindex
+5	Eveready	EvereadyLEDBulb	1800	120	instantstart
+6	Bajaj	BajajLEDBulb	1550	130	shockproof
+7	OrientElectric	OrientLEDBulb	1600	150	compatiblewithmostfixtures
+8	Crompton	CromptonLEDBulb	1400	170	instantbrightness
+9	Surya	SuryaLEDBulb	2000	135	consistentlightoutput
+10	Usha	UshaLEDBulb	1900	155	noUVorIRradiation

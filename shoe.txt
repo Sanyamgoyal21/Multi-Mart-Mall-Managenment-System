@@ -1,0 +1,10 @@
+1	Bata	PowerRunningShoes	200	1499	Lightweight
+2	RedChief	RedChiefCasualSneakers	250	1799	durableconstruction
+3	Woodland	WoodlandAdventureBoots	250	2999	ruggedoutsolefortraction
+4	Sparx	SparxSportsSandals	300	899	SparxSportsSandals
+5	Liberty	LibertyFormalDerbyShoes	500	1799	Classicformaldesign
+6	Action	ActionLifestyleShoes	450	1299	Trendydesign
+7	Fila	FilaRunningShoes	460	2499	Sleekdesign
+8	Lancer	LancerWalkingShoes	550	999	Comfortablefit
+9	Khadims	KhadimsCanvasSneakers	470	699	Casualcanvasupper
+10	Paragon	ParagonFlipFlops	240	299	Lightweightandcomfortable

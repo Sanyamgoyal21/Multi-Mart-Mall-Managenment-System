@@ -1,0 +1,10 @@
+1	Realme	Realme12Pro5G	300	30000	Snapdragonprocessor
+2	Samsung	SamsungGalaxyS24Ultra	400	80000	Highresolutioncamerasystem
+3	OnePlus	OnePlus12	350	45000	Snapdragon8series
+4	Vivo	VivoX100Pro	280	55000	CurvedAMOLED
+5	Xiaomi	Xiaomi14	250	35000	highrefreshrate
+6	Google	GooglePixel8Pro	360	70000	GoogleCamera
+7	Apple	AppleiPhone15ProMax	400	120000	SuperRetinaXDRdisplay
+8	Oppo	OppoFindN3Flip	350	40000	Innovativeflipcameradesign
+9	Motorola	MotorolaEdge30	500	25000	Snapdragonprocessor90Hzdisplay
+10	Nokia	NokiaX50	700	28000	Zeissoptics

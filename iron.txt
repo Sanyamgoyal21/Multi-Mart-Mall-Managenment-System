@@ -1,0 +1,10 @@
+1	Philips	PhilipsGC19051440Watt	1000	1740	360swivelcordangle
+2	USHA	USHAAquaGlow	900	2542	Durableceramicsoleplate
+3	Philips	PhilipsEasySpeedPlus	1100	3199	2000Wpowerconsumption
+4	MorphyRichards	MorphyRichardsSuperGlide2000W	900	2199	Steamburstverticalhorizontalironing
+5	BlackDecke	BlackDeckerBDBXIR2202IN	1300	3199	Lightweightandportablefortravel
+6	Bajaj	BajajMX35N	800	2080	Steamburstantiscaletechnology
+7	HAVELLS	HAVELLSPlush	1100	1990	Ceramiccoatedsoleplate
+8	TefalMaestro	TefalMaestroPlus2200WattXL	700	1987	XLceramicsoleplate
+9	GoodscityGarment	GoodscityGarmentSteamer	600	2679	GoodscityGarmentSteamer
+10	Philips	PhilipsPerfectcarePowerlife	1300	3299	OptimalTEMPtechnology

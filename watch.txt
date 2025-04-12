@@ -1,0 +1,10 @@
+1	Timex	TimexClassicsExecutive	150	3999	datewindow
+2	Fastrack	FastrackOTSExplore	170	2299	alarmfunction
+3	Sonata	SonataSuperFibre	160	1499	fiberreinforcedcase
+4	Titan	TitanEdgeCeramic	140	8999	ceramiccase
+5	Maxima	MaximaEgoUrban	130	1899	luminoushands
+6	HMT	HMTPilotHeritage	200	2499	stainlesssteelcase
+7	Casio	CasioYouthSeries	210	2799	resincaseandstrap
+8	Titan	TitanRagaViva	190	6499	stainlesssteelcase
+9	Citizen	CitizenEcoDriveUrban	250	7999	poweredbylight
+10	HMT	HMTHeritageAutomatic	195	3299	exhibitioncaseback

@@ -1,0 +1,10 @@
+1	Camlin	CamlinSupremeGelPen	200	149	smoothwriting
+2	Classmate	ClassmateOctaneGeometryBox	250	299	compactdesign
+3	Navneet	NavneetYouvaSketchbook	230	199	acidfreepaper
+4	Kokuyo	KokuyoCampusNotebook	190	99	highqualityruledpaper
+5	Cello	CelloFinegripBallpointPenPack	190	79	comfortablegrip
+6	FaberCastell	FaberCastellTriGripColorPencils	220	249	ergonomicdesign
+7	Reynolds	ReynoldsJiffyCorrectionPen	250	49	Quickdrying
+8	Pilot	PilotV5HiTecpointRollerballPen	300	129	preciseneedle
+9	Doms	DomsZoomEraserPack	450	29	highqualityerasers
+10	Rajasthan	RajasthanHandmadePaperDiary	600	349	ecofriendlyrecycledpaper
